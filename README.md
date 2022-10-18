@@ -58,7 +58,6 @@ I am a creative🎡, time punctual👨‍🎓, dedicated🎯, goal-oriented indi
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Holopin" src ="https://holopin.me/shashwatbangar)](https://holopin.io/@shashwatbangar"></a>
 </p>
 
 ### 💻 Software and tools
@@ -110,3 +109,5 @@ I am a creative🎡, time punctual👨‍🎓, dedicated🎯, goal-oriented indi
 	<a href="https://www.instagram.com/weakchemistry/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:shashwatbangar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+
+[![@shashwatbangar's Holopin board](https://holopin.me/shashwatbangar)](https://holopin.io/@shashwatbangar)
